@@ -4,7 +4,7 @@
 import { useState, ChangeEvent, FormEvent } from "react";
 
 // Import custom UI components from the UI directory
-import { Card, CardHeader, CardFooter, CardTitle, CardDescription, CardContent } from "@/components/ui/card";
+import { Card, CardHeader, CardTitle, CardDescription, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 
